@@ -1,0 +1,4 @@
+﻿Kriteria,Jumlah komponen
+Kaiser (eigenvalue > 1),8
+Parallel analysis (persentil 95),5
+Varians kumulatif >= 70%,10

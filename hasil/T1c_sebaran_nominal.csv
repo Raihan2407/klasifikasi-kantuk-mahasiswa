@@ -1,0 +1,41 @@
+﻿kolom,kategori,n,persen
+jenis_kelamin,Laki-laki,52,52.0
+jenis_kelamin,Perempuan,48,48.0
+jenis_kelamin,(jumlah variasi tulisan: 2),0,0.0
+tempat,Rumah/Kos,58,58.0
+tempat,Kafe/Tempat umum,20,20.0
+tempat,Perpustakaan,10,10.0
+tempat,Kampus,9,9.0
+tempat,rumah temen dan dirumah,1,1.0
+tempat,Warkop,1,1.0
+tempat,Dimama saja yang penting nyaman,1,1.0
+tempat,(jumlah variasi tulisan: 7),0,0.0
+metode,Belajar mandiri,34,34.0
+metode,Kombinasi beberapa metode,20,20.0
+metode,Diskusi kelompok,18,18.0
+metode,Menonton video pembelajaran,12,12.0
+metode,Latihan soal/praktik,9,9.0
+metode,Membaca buku/modul,7,7.0
+metode,(jumlah variasi tulisan: 6),0,0.0
+nonakad_jenis,Media sosial,38,38.0
+nonakad_jenis,Bermain game,12,12.0
+nonakad_jenis,Media sosial;Browsing internet;Chatting,6,6.0
+nonakad_jenis,Streaming film/video,5,5.0
+nonakad_jenis,Media sosial;Bermain game;Streaming film/video;Browsing internet;Chatting,5,5.0
+nonakad_jenis,Media sosial;Browsing internet,4,4.0
+nonakad_jenis,Media sosial;Streaming film/video,4,4.0
+nonakad_jenis,Media sosial;Bermain game;Streaming film/video,4,4.0
+nonakad_jenis,Media sosial;Chatting,3,3.0
+nonakad_jenis,Media sosial;Bermain game,3,3.0
+nonakad_jenis,(jumlah variasi tulisan: 21),16,16.0
+prodi,TEKNIK INFORMATIKA,24,24.0
+prodi,AKUNTANSI,5,5.0
+prodi,HUKUM,4,4.0
+prodi,Akuntansi,4,4.0
+prodi,PGSD,3,3.0
+prodi,INFORMATIKA,3,3.0
+prodi,PENDIDIKAN MATEMATIKA,2,2.0
+prodi,hukum,2,2.0
+prodi,Hukum,2,2.0
+prodi,PSIKOLOGI,2,2.0
+prodi,(jumlah variasi tulisan: 53),49,49.0

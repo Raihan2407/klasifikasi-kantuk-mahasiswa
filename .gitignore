@@ -1,0 +1,8 @@
+# data kuesioner tidak dipublikasikan di repositori ini
+*.csv
+!hasil/*.csv
+hasil/data_terkode_semua_kolom.csv
+.ipynb_checkpoints/
+__pycache__/
+*.7z
+*.zip

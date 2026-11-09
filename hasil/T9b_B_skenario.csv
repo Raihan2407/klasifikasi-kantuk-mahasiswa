@@ -1,0 +1,10 @@
+﻿skenario,model,jml_fitur,akurasi,sd,akurasi_seimbang
+A: semua fitur final,Decision Tree,19,0.608,0.09,0.5
+A: semua fitur final,Naive Bayes,19,0.612,0.077,0.505
+A: semua fitur final,Random Forest,19,0.688,0.042,0.533
+B: tanpa organisasi,Decision Tree,18,0.604,0.097,0.503
+B: tanpa organisasi,Naive Bayes,18,0.59,0.071,0.476
+B: tanpa organisasi,Random Forest,18,0.67,0.052,0.514
+C: tanpa organisasi dan deadline,Decision Tree,17,0.598,0.107,0.496
+C: tanpa organisasi dan deadline,Naive Bayes,17,0.586,0.064,0.46
+C: tanpa organisasi dan deadline,Random Forest,17,0.674,0.033,0.506

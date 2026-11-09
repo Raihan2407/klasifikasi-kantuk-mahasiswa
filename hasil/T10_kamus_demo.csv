@@ -1,0 +1,98 @@
+﻿fitur,jawaban,kode
+belajar_jam,< 1 Jam,0
+belajar_jam,1 -2 Jam,1
+belajar_jam,2 - 3 Jam,2
+belajar_jam,3 - 4 Jam,3
+belajar_jam,> 4 Jam,4
+usia,17,17
+usia,18,18
+usia,19,19
+usia,20,20
+usia,21,21
+usia,22,22
+usia,23,23
+usia,24,24
+usia,29,29
+belajar_hari,Tidak pernah,0
+belajar_hari,1 - 2 Hari,1
+belajar_hari,3 - 4 Hari,2
+belajar_hari,5 - 6 Hari,3
+belajar_hari,Setiap Hari,4
+semester,1,1
+semester,3,3
+semester,5,5
+semester,7,7
+akad_durasi,< 1 jam,0
+akad_durasi,1–2 jam,1
+akad_durasi,2–3 jam,2
+akad_durasi,3–4 jam,3
+akad_durasi,> 4 jam,4
+deadline,Tidak pernah,0
+deadline,Jarang,1
+deadline,Kadang-kadang,2
+deadline,Sering,3
+deadline,Sangat sering,4
+sesi,< 30 Menit,0
+sesi,30 - 60 Menit,1
+sesi,1 - 2 Jam,2
+sesi,2 - 3 Jam,3
+sesi,3 Jam,4
+hp_sebelum_tidur,Tidak pernah,0
+hp_sebelum_tidur,Jarang,1
+hp_sebelum_tidur,Kadang-kadang,2
+hp_sebelum_tidur,Sering,3
+hp_sebelum_tidur,Selalu,4
+hp_durasi,< 2 jam,0
+hp_durasi,2–4 jam,1
+hp_durasi,4–6 jam,2
+hp_durasi,6–8 jam,3
+hp_durasi,> 8 jam,4
+jam_bangun,Sebelum 05.00,0
+jam_bangun,05.00–06.00,1
+jam_bangun,06.00–07.00,2
+jam_bangun,07.00–08.00,3
+jam_bangun,Setelah 08.00,4
+referensi,Tidak pernah,0
+referensi,Jarang,1
+referensi,Kadang-kadang,2
+referensi,Sering,3
+referensi,Selalu,4
+tugas_hari,Tidak pernah,0
+tugas_hari,1–2 hari,1
+tugas_hari,3–4 hari,2
+tugas_hari,5–6 hari,3
+tugas_hari,Setiap hari,4
+nonakad_durasi,< 2 jam,0
+nonakad_durasi,2–4 jam,1
+nonakad_durasi,4–6 jam,2
+nonakad_durasi,6–8 jam,3
+nonakad_durasi,> 8 jam,4
+jam_tidur,Sebelum 21.00,0
+jam_tidur,21.00–22.00,1
+jam_tidur,22.00–23.00,2
+jam_tidur,23.00–00.00,3
+jam_tidur,Setelah 00.00,4
+tugas_jam,< 1 jam,0
+tugas_jam,1–2 jam,1
+tugas_jam,2–3 jam,2
+tugas_jam,3–4 jam,3
+tugas_jam,> 4 jam,4
+organisasi,Tidak pernah,0
+organisasi,Jarang,1
+organisasi,Kadang-kadang,2
+organisasi,Sering,3
+organisasi,Sangat sering,4
+menunda,Tidak pernah,0
+menunda,Jarang,1
+menunda,Kadang-kadang,2
+menunda,Sering,3
+menunda,Sangat sering,4
+hp_saat_belajar,Tidak pernah,0
+hp_saat_belajar,Jarang,1
+hp_saat_belajar,Kadang-kadang,2
+hp_saat_belajar,Sering,3
+hp_saat_belajar,Selalu,4
+olahraga,Tidak pernah,0
+olahraga,1–2 kali,1
+olahraga,3–4 kali,2
+olahraga,5 kali atau lebih,3

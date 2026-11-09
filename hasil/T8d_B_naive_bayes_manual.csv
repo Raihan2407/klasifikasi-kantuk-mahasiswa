@@ -1,0 +1,20 @@
+﻿fitur,kode_responden_1,P(fitur | Tidak Mengantuk),P(fitur | Mengantuk)
+belajar_jam,1,0.3243,0.2877
+usia,20,0.129,0.1939
+belajar_hari,2,0.2432,0.3014
+semester,5,0.3,0.3684
+akad_durasi,3,0.1351,0.0959
+deadline,2,0.2703,0.5068
+sesi,2,0.3784,0.3562
+hp_sebelum_tidur,1,0.1351,0.0685
+hp_durasi,2,0.3243,0.2192
+jam_bangun,2,0.2973,0.2329
+referensi,2,0.1622,0.274
+tugas_hari,2,0.3784,0.3288
+nonakad_durasi,2,0.2432,0.3151
+jam_tidur,4,0.1892,0.274
+tugas_jam,2,0.4054,0.3973
+organisasi,0,0.3514,0.2329
+menunda,2,0.4324,0.5068
+hp_saat_belajar,1,0.1351,0.1233
+olahraga,3,0.1944,0.0694

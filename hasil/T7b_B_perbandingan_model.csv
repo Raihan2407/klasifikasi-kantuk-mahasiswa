@@ -1,0 +1,11 @@
+﻿himpunan,model,akurasi,sd,akurasi_seimbang,F1_makro,rata_jml_kolom
+-,Mayoritas,0.68,0.025,0.5,0.405,25.0
+Semua kolom,Decision Tree,0.612,0.104,0.509,0.491,25.0
+Semua kolom,Naive Bayes,0.576,0.085,0.476,0.461,25.0
+Semua kolom,Random Forest,0.672,0.049,0.512,0.45,25.0
+Hasil PCA,Decision Tree,0.626,0.095,0.519,0.497,19.0
+Hasil PCA,Naive Bayes,0.614,0.09,0.507,0.493,19.0
+Hasil PCA,Random Forest,0.694,0.04,0.54,0.493,19.0
+PCA + dikembalikan,Decision Tree,0.626,0.095,0.519,0.497,19.0
+PCA + dikembalikan,Naive Bayes,0.614,0.09,0.507,0.493,19.0
+PCA + dikembalikan,Random Forest,0.694,0.04,0.54,0.493,19.0

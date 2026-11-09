@@ -1,0 +1,120 @@
+﻿kolom,kode,jawaban
+belajar_jam,0,< 1 Jam
+belajar_jam,1,1 -2 Jam
+belajar_jam,2,2 - 3 Jam
+belajar_jam,3,3 - 4 Jam
+belajar_jam,4,> 4 Jam
+belajar_hari,0,Tidak pernah
+belajar_hari,1,1 - 2 Hari
+belajar_hari,2,3 - 4 Hari
+belajar_hari,3,5 - 6 Hari
+belajar_hari,4,Setiap Hari
+sesi,0,< 30 Menit
+sesi,1,30 - 60 Menit
+sesi,2,1 - 2 Jam
+sesi,3,2 - 3 Jam
+sesi,4,3 Jam
+jadwal,0,Tidak pernah
+jadwal,1,Jarang
+jadwal,2,Kadang-kadang
+jadwal,3,Sering
+jadwal,4,Selalu
+menunda,0,Tidak pernah
+menunda,1,Jarang
+menunda,2,Kadang-kadang
+menunda,3,Sering
+menunda,4,Sangat sering
+hp_durasi,0,< 2 jam
+hp_durasi,1,2–4 jam
+hp_durasi,2,4–6 jam
+hp_durasi,3,6–8 jam
+hp_durasi,4,> 8 jam
+nonakad_durasi,0,< 2 jam
+nonakad_durasi,1,2–4 jam
+nonakad_durasi,2,4–6 jam
+nonakad_durasi,3,6–8 jam
+nonakad_durasi,4,> 8 jam
+akad_durasi,0,< 1 jam
+akad_durasi,1,1–2 jam
+akad_durasi,2,2–3 jam
+akad_durasi,3,3–4 jam
+akad_durasi,4,> 4 jam
+hp_saat_belajar,0,Tidak pernah
+hp_saat_belajar,1,Jarang
+hp_saat_belajar,2,Kadang-kadang
+hp_saat_belajar,3,Sering
+hp_saat_belajar,4,Selalu
+tidur_durasi,0,< 4 jam
+tidur_durasi,1,4–5 jam
+tidur_durasi,2,5–6 jam
+tidur_durasi,3,6–7 jam
+tidur_durasi,4,7–8 jam
+tidur_durasi,5,> 8 jam
+jam_tidur,0,Sebelum 21.00
+jam_tidur,1,21.00–22.00
+jam_tidur,2,22.00–23.00
+jam_tidur,3,23.00–00.00
+jam_tidur,4,Setelah 00.00
+jam_bangun,0,Sebelum 05.00
+jam_bangun,1,05.00–06.00
+jam_bangun,2,06.00–07.00
+jam_bangun,3,07.00–08.00
+jam_bangun,4,Setelah 08.00
+hp_sebelum_tidur,0,Tidak pernah
+hp_sebelum_tidur,1,Jarang
+hp_sebelum_tidur,2,Kadang-kadang
+hp_sebelum_tidur,3,Sering
+hp_sebelum_tidur,4,Selalu
+kantuk,0,Tidak pernah
+kantuk,1,Jarang
+kantuk,2,Kadang-kadang
+kantuk,3,Sering
+kantuk,4,Sangat sering
+tugas_jam,0,< 1 jam
+tugas_jam,1,1–2 jam
+tugas_jam,2,2–3 jam
+tugas_jam,3,3–4 jam
+tugas_jam,4,> 4 jam
+tugas_hari,0,Tidak pernah
+tugas_hari,1,1–2 hari
+tugas_hari,2,3–4 hari
+tugas_hari,3,5–6 hari
+tugas_hari,4,Setiap hari
+deadline,0,Tidak pernah
+deadline,1,Jarang
+deadline,2,Kadang-kadang
+deadline,3,Sering
+deadline,4,Sangat sering
+kelompok,0,Tidak pernah
+kelompok,1,Jarang
+kelompok,2,Kadang-kadang
+kelompok,3,Sering
+kelompok,4,Selalu
+referensi,0,Tidak pernah
+referensi,1,Jarang
+referensi,2,Kadang-kadang
+referensi,3,Sering
+referensi,4,Selalu
+ulang,0,Tidak pernah
+ulang,1,Jarang
+ulang,2,Kadang-kadang
+ulang,3,Sering
+ulang,4,Selalu
+kegiatan_akademik,0,Tidak pernah
+kegiatan_akademik,1,1–2 kali
+kegiatan_akademik,2,3–4 kali
+kegiatan_akademik,3,5 kali atau lebih
+perpustakaan,0,Tidak pernah
+perpustakaan,1,Jarang
+perpustakaan,2,Kadang-kadang
+perpustakaan,3,Sering
+perpustakaan,4,Selalu
+organisasi,0,Tidak pernah
+organisasi,1,Jarang
+organisasi,2,Kadang-kadang
+organisasi,3,Sering
+organisasi,4,Sangat sering
+olahraga,0,Tidak pernah
+olahraga,1,1–2 kali
+olahraga,2,3–4 kali
+olahraga,3,5 kali atau lebih

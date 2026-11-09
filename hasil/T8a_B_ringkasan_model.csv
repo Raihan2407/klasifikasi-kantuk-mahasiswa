@@ -1,0 +1,5 @@
+﻿model,akurasi,sd,akurasi_seimbang,F1_makro
+Mayoritas,0.68,0.025,0.5,
+Decision Tree,0.626,0.095,0.519,0.497
+Naive Bayes,0.614,0.09,0.507,0.493
+Random Forest,0.694,0.04,0.54,0.493

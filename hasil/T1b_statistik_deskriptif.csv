@@ -1,0 +1,27 @@
+﻿kolom,jenis,n,rata2_kode,median_kode,simpangan_baku,min,maks,modus_kode,modus_jawaban,kemencengan
+belajar_jam,Ordinal,100,1.78,2.0,1.3,0,4,1,1 -2 Jam,0.36
+belajar_hari,Ordinal,100,1.7,1.0,1.04,0,4,1,1 - 2 Hari,1.0
+sesi,Ordinal,100,1.55,1.5,0.9,0,4,1,30 - 60 Menit,0.43
+jadwal,Ordinal,100,1.71,2.0,0.89,0,4,2,Kadang-kadang,0.08
+menunda,Ordinal,100,2.1,2.0,0.8,0,4,2,Kadang-kadang,-0.06
+hp_durasi,Ordinal,100,2.64,3.0,1.14,0,4,3,6–8 jam,-0.45
+nonakad_durasi,Ordinal,100,1.98,2.0,1.27,0,4,2,4–6 jam,0.04
+akad_durasi,Ordinal,100,1.77,2.0,1.19,0,4,2,2–3 jam,0.34
+hp_saat_belajar,Ordinal,100,2.69,3.0,1.04,0,4,3,Sering,-0.43
+tidur_durasi,Ordinal,100,2.36,2.0,1.18,0,5,2,5–6 jam,-0.02
+jam_tidur,Ordinal,100,2.7,3.0,0.96,0,4,2,22.00–23.00,-0.13
+jam_bangun,Ordinal,100,1.54,1.0,1.04,0,4,1,05.00–06.00,0.68
+hp_sebelum_tidur,Ordinal,100,2.94,3.0,0.99,0,4,3,Sering,-0.87
+kantuk,Ordinal,100,1.87,2.0,0.9,0,4,2,Kadang-kadang,0.0
+tugas_jam,Ordinal,100,2.11,2.0,0.95,0,4,2,2–3 jam,0.27
+tugas_hari,Ordinal,100,1.83,2.0,1.01,0,4,1,1–2 hari,1.0
+deadline,Ordinal,100,1.78,2.0,1.01,0,4,2,Kadang-kadang,-0.32
+kelompok,Ordinal,100,2.52,3.0,0.87,0,4,3,Sering,-0.48
+referensi,Ordinal,100,2.68,3.0,0.85,0,4,3,Sering,-0.62
+ulang,Ordinal,100,1.87,2.0,0.73,0,3,2,Kadang-kadang,-0.26
+kegiatan_akademik,Ordinal,100,1.1,1.0,0.76,0,3,1,1–2 kali,0.53
+perpustakaan,Ordinal,100,1.73,2.0,0.92,0,4,2,Kadang-kadang,0.17
+organisasi,Ordinal,100,1.52,1.0,1.28,0,4,0,Tidak pernah,0.37
+olahraga,Ordinal,100,1.27,1.0,0.85,0,3,1,1–2 kali,0.44
+usia,Numerik,100,20.08,20.0,1.78,17,29,21,21,1.4
+semester,Numerik,100,3.88,5.0,2.15,1,7,5,5,-0.11

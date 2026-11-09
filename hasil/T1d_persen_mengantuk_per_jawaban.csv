@@ -1,0 +1,115 @@
+﻿kolom,kode,jawaban,n,n_mengantuk,persen_mengantuk
+belajar_jam,0,< 1 Jam,17,11,64.7
+belajar_jam,1,1 -2 Jam,31,20,64.5
+belajar_jam,2,2 - 3 Jam,24,16,66.7
+belajar_jam,3,3 - 4 Jam,13,9,69.2
+belajar_jam,4,> 4 Jam,15,12,80.0
+belajar_hari,0,Tidak pernah,4,3,75.0
+belajar_hari,1,1 - 2 Hari,50,32,64.0
+belajar_hari,2,3 - 4 Hari,29,21,72.4
+belajar_hari,3,5 - 6 Hari,6,4,66.7
+belajar_hari,4,Setiap Hari,11,8,72.7
+sesi,0,< 30 Menit,10,7,70.0
+sesi,1,30 - 60 Menit,40,28,70.0
+sesi,2,1 - 2 Jam,38,25,65.8
+sesi,3,2 - 3 Jam,9,6,66.7
+sesi,4,3 Jam,3,2,66.7
+jadwal,0,Tidak pernah,9,6,66.7
+jadwal,1,Jarang,28,18,64.3
+jadwal,2,Kadang-kadang,49,34,69.4
+jadwal,3,Sering,11,8,72.7
+jadwal,4,Selalu,3,2,66.7
+menunda,0,Tidak pernah,2,0,0.0
+menunda,1,Jarang,18,12,66.7
+menunda,2,Kadang-kadang,51,36,70.6
+menunda,3,Sering,26,19,73.1
+menunda,4,Sangat sering,3,1,33.3
+hp_durasi,0,< 2 jam,4,4,100.0
+hp_durasi,1,2–4 jam,13,10,76.9
+hp_durasi,2,4–6 jam,26,15,57.7
+hp_durasi,3,6–8 jam,29,19,65.5
+hp_durasi,4,> 8 jam,28,20,71.4
+nonakad_durasi,0,< 2 jam,15,10,66.7
+nonakad_durasi,1,2–4 jam,21,13,61.9
+nonakad_durasi,2,4–6 jam,30,22,73.3
+nonakad_durasi,3,6–8 jam,19,13,68.4
+nonakad_durasi,4,> 8 jam,15,10,66.7
+akad_durasi,0,< 1 jam,15,11,73.3
+akad_durasi,1,1–2 jam,27,17,63.0
+akad_durasi,2,2–3 jam,36,25,69.4
+akad_durasi,3,3–4 jam,10,6,60.0
+akad_durasi,4,> 4 jam,12,9,75.0
+hp_saat_belajar,0,Tidak pernah,2,2,100.0
+hp_saat_belajar,1,Jarang,12,8,66.7
+hp_saat_belajar,2,Kadang-kadang,26,15,57.7
+hp_saat_belajar,3,Sering,35,28,80.0
+hp_saat_belajar,4,Selalu,25,15,60.0
+tidur_durasi,0,< 4 jam,6,5,83.3
+tidur_durasi,1,4–5 jam,17,13,76.5
+tidur_durasi,2,5–6 jam,31,22,71.0
+tidur_durasi,3,6–7 jam,30,18,60.0
+tidur_durasi,4,7–8 jam,13,8,61.5
+tidur_durasi,5,> 8 jam,3,2,66.7
+jam_tidur,0,Sebelum 21.00,1,0,0.0
+jam_tidur,1,21.00–22.00,7,5,71.4
+jam_tidur,2,22.00–23.00,38,23,60.5
+jam_tidur,3,23.00–00.00,29,21,72.4
+jam_tidur,4,Setelah 00.00,25,19,76.0
+jam_bangun,0,Sebelum 05.00,12,7,58.3
+jam_bangun,1,05.00–06.00,45,33,73.3
+jam_bangun,2,06.00–07.00,26,16,61.5
+jam_bangun,3,07.00–08.00,11,7,63.6
+jam_bangun,4,Setelah 08.00,6,5,83.3
+hp_sebelum_tidur,0,Tidak pernah,2,1,50.0
+hp_sebelum_tidur,1,Jarang,8,4,50.0
+hp_sebelum_tidur,2,Kadang-kadang,16,11,68.8
+hp_sebelum_tidur,3,Sering,42,29,69.0
+hp_sebelum_tidur,4,Selalu,32,23,71.9
+tugas_jam,0,< 1 jam,2,2,100.0
+tugas_jam,1,1–2 jam,25,14,56.0
+tugas_jam,2,2–3 jam,42,28,66.7
+tugas_jam,3,3–4 jam,22,17,77.3
+tugas_jam,4,> 4 jam,9,7,77.8
+tugas_hari,0,Tidak pernah,1,0,0.0
+tugas_hari,1,1–2 hari,45,32,71.1
+tugas_hari,2,3–4 hari,36,23,63.9
+tugas_hari,3,5–6 hari,6,5,83.3
+tugas_hari,4,Setiap hari,12,8,66.7
+deadline,0,Tidak pernah,15,8,53.3
+deadline,1,Jarang,17,8,47.1
+deadline,2,Kadang-kadang,45,36,80.0
+deadline,3,Sering,21,14,66.7
+deadline,4,Sangat sering,2,2,100.0
+kelompok,0,Tidak pernah,3,2,66.7
+kelompok,1,Jarang,5,4,80.0
+kelompok,2,Kadang-kadang,40,27,67.5
+kelompok,3,Sering,41,26,63.4
+kelompok,4,Selalu,11,9,81.8
+referensi,0,Tidak pernah,1,1,100.0
+referensi,1,Jarang,9,6,66.7
+referensi,2,Kadang-kadang,24,19,79.2
+referensi,3,Sering,53,35,66.0
+referensi,4,Selalu,13,7,53.8
+ulang,0,Tidak pernah,3,2,66.7
+ulang,1,Jarang,25,17,68.0
+ulang,2,Kadang-kadang,54,39,72.2
+ulang,3,Sering,18,10,55.6
+ulang,4,Selalu,0,0,
+kegiatan_akademik,0,Tidak pernah,19,12,63.2
+kegiatan_akademik,1,1–2 kali,57,39,68.4
+kegiatan_akademik,2,3–4 kali,19,15,78.9
+kegiatan_akademik,3,5 kali atau lebih,5,2,40.0
+perpustakaan,0,Tidak pernah,8,6,75.0
+perpustakaan,1,Jarang,32,20,62.5
+perpustakaan,2,Kadang-kadang,42,30,71.4
+perpustakaan,3,Sering,15,9,60.0
+perpustakaan,4,Selalu,3,3,100.0
+organisasi,0,Tidak pernah,28,16,57.1
+organisasi,1,Jarang,24,14,58.3
+organisasi,2,Kadang-kadang,24,21,87.5
+organisasi,3,Sering,16,12,75.0
+organisasi,4,Sangat sering,8,5,62.5
+olahraga,0,Tidak pernah,16,12,75.0
+olahraga,1,1–2 kali,51,37,72.5
+olahraga,2,3–4 kali,23,15,65.2
+olahraga,3,5 kali atau lebih,10,4,40.0

@@ -1,0 +1,5 @@
+﻿Uji,Nilai,Kriteria
+Bartlett chi-kuadrat,705.52,
+Bartlett df,300,
+Bartlett p-value,1.07e-34,"< 0,05 : PCA bermakna"
+KMO keseluruhan,0.617,">= 0,5 : layak"

@@ -1,0 +1,26 @@
+{
+ "label": "Mengantuk / Tidak Mengantuk",
+ "fitur": [
+  "belajar_jam",
+  "usia",
+  "belajar_hari",
+  "semester",
+  "akad_durasi",
+  "deadline",
+  "sesi",
+  "hp_sebelum_tidur",
+  "hp_durasi",
+  "jam_bangun",
+  "referensi",
+  "tugas_hari",
+  "nonakad_durasi",
+  "jam_tidur",
+  "tugas_jam",
+  "organisasi",
+  "menunda",
+  "hp_saat_belajar",
+  "olahraga"
+ ],
+ "jumlah_data": 100,
+ "model": "Random Forest"
+}

@@ -1,0 +1,7 @@
+﻿model,kelas,precision,recall,F1,jumlah_sebenarnya
+Decision Tree,Tidak Mengantuk,0.361,0.219,0.272,32
+Decision Tree,Mengantuk,0.69,0.818,0.748,68
+Naive Bayes,Tidak Mengantuk,0.335,0.209,0.258,32
+Naive Bayes,Mengantuk,0.684,0.804,0.739,68
+Random Forest,Tidak Mengantuk,0.621,0.112,0.19,32
+Random Forest,Mengantuk,0.699,0.968,0.811,68

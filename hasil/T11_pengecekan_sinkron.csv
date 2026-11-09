@@ -1,0 +1,19 @@
+﻿pengecekan,nilai_1,nilai_2,lolos
+[B] jumlah responden,100,100,True
+[B] jumlah kelas Mengantuk/Tidak Mengantuk,68/32,dari kolom sumber,True
+[B] total confusion matrix Decision Tree,100.0,100,True
+[B] baris confusion matrix Decision Tree = jumlah kelas,32.0/68.0,32/68,True
+[B] akurasi Decision Tree: tabel T8a = dari confusion matrix,0.626,0.626,True
+[B] total confusion matrix Naive Bayes,100.0,100,True
+[B] baris confusion matrix Naive Bayes = jumlah kelas,32.0/68.0,32/68,True
+[B] akurasi Naive Bayes: tabel T8a = dari confusion matrix,0.614,0.614,True
+[B] total confusion matrix Random Forest,100.0,100,True
+[B] baris confusion matrix Random Forest = jumlah kelas,32.0/68.0,32/68,True
+[B] akurasi Random Forest: tabel T8a = dari confusion matrix,0.694,0.694,True
+[B] akar pohon: hitung manual = scikit-learn,True,True,True
+[B] Naive Bayes manual = scikit-learn,True,True,True
+[B] jumlah fitur final = T7a (bukan 'Dibuang'),19,19,True
+[B] akurasi Decision Tree: T8a = T7b (kolom sama),0.626,0.626,True
+[B] akurasi Naive Bayes: T8a = T7b (kolom sama),0.614,0.614,True
+[B] akurasi Random Forest: T8a = T7b (kolom sama),0.694,0.694,True
+demo prediksi konsisten dengan data,True,True,True

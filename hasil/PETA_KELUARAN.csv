@@ -1,0 +1,40 @@
+﻿file,usulan_bab_laporan,keterangan
+G1_sebaran_label.png,Bab II,Sebaran label
+G1b_sebaran_ordinal.png,Bab II,Sebaran kolom ordinal
+G1c_sebaran_profil.png,Bab II,Sebaran profil
+G3_korelasi.png,Bab III,Heatmap korelasi
+G5_scree.png,Bab IV,Scree plot
+G6_loading.png,Bab IV,Heatmap loading
+G7_B_perbandingan.png,Bab V,Grafik perbandingan
+G8_B_confusion.png,Bab V,"Confusion matrix, pohon, kepentingan"
+G8_B_kepentingan.png,Bab V,"Confusion matrix, pohon, kepentingan"
+G8_B_pohon.png,Bab V,"Confusion matrix, pohon, kepentingan"
+T0_kelompok_kolom.csv,Bab II,Kelompok kolom
+T10_kamus_demo.csv,Bab VI,Kamus dan uji demo
+T10_uji_demo.csv,Bab VI,Kamus dan uji demo
+T11_pengecekan_sinkron.csv,Bab V,Pengecekan sinkron
+T1_audit_kolom.csv,Bab II,Audit kualitas kolom
+T1b_statistik_deskriptif.csv,Bab II,Statistik deskriptif
+T1c_sebaran_nominal.csv,Bab II,Sebaran kolom nominal
+T1d_persen_mengantuk_per_jawaban.csv,Bab II,Persentase Mengantuk per jawaban
+T2a_kamus_kode.csv,Bab III,Kamus kode jawaban
+T3a_kelayakan_pca.csv,Bab III,Kelayakan PCA
+T3b_msa.csv,Bab III,MSA per kolom
+T3c_pasangan_korelasi.csv,Bab III,Pasangan kolom berkorelasi
+T4_eigenvalue.csv,Bab IV,Eigenvalue PCA
+T5_jumlah_komponen.csv,Bab IV,Jumlah komponen
+T6_keputusan_kolom.csv,Bab IV,Keputusan kolom PCA
+T6b_loading.csv,Bab IV,Loading PCA
+T7a_B_keputusan_akhir.csv,Bab IV,Keputusan akhir kolom
+T7b_B_perbandingan_model.csv,Bab V,Perbandingan himpunan kolom
+T8a_B_ringkasan_model.csv,Bab V,Ringkasan model
+T8b_B_per_kelas.csv,Bab V,Precision/recall/F1
+T8c_B_information_gain.csv,Bab IV,Information gain
+T8d_B_naive_bayes_manual.csv,Bab IV,Naive Bayes manual
+T8e_B_kepentingan_fitur.csv,Bab V,Kepentingan fitur
+T9a_B_uji_permutasi.csv,Bab V,Uji permutasi
+T9b_B_skenario.csv,Bab V,Skenario ketahanan
+T9c_B_sensitivitas_K.csv,Bab V,Sensitivitas K PCA
+data_terkode_semua_kolom.csv,Lampiran,Data terkode
+meta_B.json,Bab VI,Metadata model
+model_B.joblib,Bab VI,Model tersimpan

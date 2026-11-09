@@ -1,0 +1,4 @@
+﻿model,akurasi_asli,rata2_akurasi_acak,jumlah_permutasi,p_value,q_BH,"bermakna_q<0,05"
+Decision Tree,0.63,0.605,200,0.3781094527363184,0.527,False
+Naive Bayes,0.61,0.605,200,0.527363184079602,0.527,False
+Random Forest,0.69,0.659,100,0.12871287128712872,0.386,False

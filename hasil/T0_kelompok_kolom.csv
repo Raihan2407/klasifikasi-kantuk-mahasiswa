@@ -1,0 +1,32 @@
+﻿kolom,jenis_data,perlakuan
+belajar_jam,Ordinal,Masuk PCA
+belajar_hari,Ordinal,Masuk PCA
+sesi,Ordinal,Masuk PCA
+jadwal,Ordinal,Masuk PCA
+menunda,Ordinal,Masuk PCA
+hp_durasi,Ordinal,Masuk PCA
+nonakad_durasi,Ordinal,Masuk PCA
+akad_durasi,Ordinal,Masuk PCA
+hp_saat_belajar,Ordinal,Masuk PCA
+tidur_durasi,Ordinal,Masuk PCA
+jam_tidur,Ordinal,Masuk PCA
+jam_bangun,Ordinal,Masuk PCA
+hp_sebelum_tidur,Ordinal,Masuk PCA
+kantuk,Ordinal,Ditahan (dasar label)
+tugas_jam,Ordinal,Masuk PCA
+tugas_hari,Ordinal,Masuk PCA
+deadline,Ordinal,Masuk PCA
+kelompok,Ordinal,Masuk PCA
+referensi,Ordinal,Masuk PCA
+ulang,Ordinal,Masuk PCA
+kegiatan_akademik,Ordinal,Masuk PCA
+perpustakaan,Ordinal,Masuk PCA
+organisasi,Ordinal,Masuk PCA
+olahraga,Ordinal,Masuk PCA
+usia,Numerik,Masuk PCA
+semester,Numerik,Masuk PCA
+jenis_kelamin,Nominal,Tidak masuk PCA (urutan angka tidak bermakna)
+prodi,Nominal,Tidak masuk PCA (urutan angka tidak bermakna)
+tempat,Nominal,Tidak masuk PCA (urutan angka tidak bermakna)
+metode,Nominal,Tidak masuk PCA (urutan angka tidak bermakna)
+nonakad_jenis,Nominal,Tidak masuk PCA (urutan angka tidak bermakna)
